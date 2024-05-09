@@ -25,4 +25,4 @@ This project is the code implementation of the paper "MAE-MACD: The Masked Adver
 
 # # Model Files Location
 
-The model files for the standard classifier, robust classifier, and IMAE used in this paper are located on [Google Drive](https://drive.google.com/drive/folders/16tFEZHbSHCLvkBr4xEgdawvHrvxXR6qF?usp=drive_link).
+The model files for the standard classifier, robust classifier, and IMAE, as well as the adversarial images used in this paper, are located on [Google Drive](https://drive.google.com/drive/folders/16tFEZHbSHCLvkBr4xEgdawvHrvxXR6qF?usp=drive_link). Please note that the adversarial images need to be unzipped.
